@@ -20,6 +20,7 @@ ul {
   list-style-type: none;
   display: flex;
   padding-left: 0;
+  gap: 10px;
 }
 
 a {
