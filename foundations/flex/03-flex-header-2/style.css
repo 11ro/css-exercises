@@ -20,11 +20,13 @@ body {
 .left-links {
   display: flex;
   flex: 1;
+  justify-content: flex-start;
 }
 
 .right-links {
   display: flex;
   flex: 1;
+  justify-content: flex-end;
 }
 
 .profile-image {
