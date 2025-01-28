@@ -19,10 +19,12 @@ body {
 
 .left-links {
   display: flex;
+  flex: 1;
 }
 
 .right-links {
   display: flex;
+  flex: 1;
 }
 
 .profile-image {
