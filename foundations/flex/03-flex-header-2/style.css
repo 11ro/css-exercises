@@ -17,15 +17,18 @@ body {
   padding: 8px;
 }
 
-.left-links {
+.left-links,
+.right-links {
   display: flex;
   flex: 1;
+  gap: 16px;
+}
+
+.left-links {
   justify-content: flex-start;
 }
 
 .right-links {
-  display: flex;
-  flex: 1;
   justify-content: flex-end;
 }
 
