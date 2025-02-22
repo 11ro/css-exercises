@@ -26,6 +26,14 @@ ul {
 .footer {
   display: flex;
   justify-content: space-between;
+  padding: 10px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 button {
