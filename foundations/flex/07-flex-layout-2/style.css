@@ -44,6 +44,9 @@ a {
 
 ul {
   list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
 }
 
 .cards {
